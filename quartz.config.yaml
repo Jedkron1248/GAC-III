@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: The Grand ACKS Campaign III
+  pageTitleSuffix: "The Tales of the Dragonslayers of Turos Tem"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -231,9 +231,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
-    layout:
+        Autarch: https://Autarch.co
+        ACKS Discord: https://discord.com/invite/RRsNCSUprY
+        layout:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
