@@ -1,0 +1,1 @@
+The judge of the game that became known as The Grand ACKS Campaign III. What became of the first two Grand ACKS Campaigns is unknown, and he does not speak of them.
