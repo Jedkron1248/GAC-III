@@ -3,9 +3,13 @@
     - Choking Grip, ~~Webbing, Animate Undead~~ 
 - Elven
     - Conjure Cacodemon Spawn
+    - Thunderclap
 - Common
     - Spider Climbing
     - Kindle Flame
+    - Fireball
+- Draconic
+	- Thunderclap
 
 ## Divine
 - Ancient Zaharan
@@ -13,8 +17,8 @@
 	- Frighten Beast
 - Elven
 	- Growth, Beast
-- Draconic
-	- Thunderclap
+- Classical Auran
+	- Cure Light Injury
 - Common
 	- Word of Command
 	- Sling Stone
