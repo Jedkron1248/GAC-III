@@ -2,3 +2,5 @@
 **Origin:** Taken from the sealed vault in [[Turos Viator]]
 **I.D.?:** Battle, by [[Tadeus]]
 **Held:** [[Tadeus]]
+
+#armor #linen #training-battle #nicean #TurosViator 

@@ -2,3 +2,5 @@
 **Origin:** Taken from Zakiti, the Lady Below
 **I.D.?:** Battle, by [[Ulyuna]]
 **Held:** [[Ulyuna]]
+
+#armor #platemail #training-battle #zaharan #buriedtemple

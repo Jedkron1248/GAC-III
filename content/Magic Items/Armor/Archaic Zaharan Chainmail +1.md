@@ -2,3 +2,5 @@
 **Origin:** Found in a hidden treasure room in the [[Buried Temple]]
 **I.D.?:** Training
 **Held:** [[Willamar Viatorius]]
+
+#armor #chainmail #training-battle #zaharan #buriedtemple

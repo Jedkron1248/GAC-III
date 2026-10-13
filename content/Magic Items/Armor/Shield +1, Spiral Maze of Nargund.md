@@ -3,4 +3,4 @@
 **I.D.?:** Training
 **Held:** [[Hracken]]
 
-#armor #shield #training #zaharan #buriedtemple
+#armor #shield #training-battle  #zaharan #buriedtemple

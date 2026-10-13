@@ -2,3 +2,5 @@
 **Origin:** Taken from the bugbear chieftain in Turos Viator
 **I.D.?:** ***Unidentified***
 **Held:** Storage
+
+#armor #shield #unidentified #auran #TurosViator
