@@ -5,6 +5,8 @@ ___
 * 800gp in coin
 * 32000sp in coin
 * 54000cp in coin
+* 1010gp wrought gold crown with moonstones and quartz
+* 1000gp fine bear pelt
 * 900gp bust of Valerian Bellesareus
 * 600gp Elven jade leaf cloak clasp
 * 200gp scrimshaw tusk with a scene from the Argollean War
