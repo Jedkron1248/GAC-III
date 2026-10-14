@@ -12,12 +12,13 @@ ___
 * 200gp scrimshaw tusk with a scene from the Argollean War
 * 450gp of other tusks
 * 52.5gp worth of glassware sets (7, 35st)
+* 400gp set of fine porcelain dishes from a locked chest
 * 1200gp wrought gold aquamarine necklace
 * 300gp silver ring studded with turquoise
 * 300gp pair of malachite ear loops
 * 25gp gems (32x)
 * 50gp gems (4x)
-* 3 locked chests from treasure room
+* 2 locked chests from treasure room
 * "Wheeleygig" cart
 ## To Sell
 - 20 gp stained glass ornament
