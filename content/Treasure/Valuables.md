@@ -1,7 +1,25 @@
-Updated: 10/13/26
+Updated: 10/26/26
 Game Date: 10/8/381
 ___
 ## New
+10/25
+- 3000sp
+- 500gp Aquamarine
+- 50gp Bloodstone
+- 1000gp Emerald
+- 50gp Onyx
+- 10gp Obsidian
+- 1000gp Diamond
+- 25gp Tiger Eye
+- 75gp Zircon
+- 900gp wrought gold armband x2
+- 700gp wrought gold anklet x2
+- 400gp wrought silver armband x2
+- 900gp ivory pendant
+- 4000gp wrought orichalcum circlet
+- 700gp wrought gold necklace
+
+10/18
 * 800gp in coin
 * 32000sp in coin
 * 54000cp in coin

@@ -1,8 +1,8 @@
 **Description:** *dark green smelling of spinach*
-**Effect:** ???
+**Effect:** The imbiber is subject to the spell *growth.*
 **Origin:** ???
 **ID?:** No
 **Held:** Storage
-**Value:** 25 GP
+**Value:** 1500 GP
 
-#potion #unidentified 
+#potion 
