@@ -30,6 +30,7 @@ Morale Effects:
 | **Tithes**    |           |          |       |
 | **Upkeep**    |           |          |       |
 | **Tribute**   |           |          |       |
+
 TOTAL INCOME: 
 (Revenue per Family minus Expenses)
 

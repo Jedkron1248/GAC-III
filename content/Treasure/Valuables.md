@@ -2,6 +2,14 @@ Updated: 10/26/26
 Game Date: 10/8/381
 ___
 ## New
+11/8
+- 800gp collar of a single sheet of gold
+- 325gp silver dagger with lapis lazuli grip
+- 400gp bronze scepter tipped with amber
+- 400gp silver corselet
+- 2000gp silver tiara adorned with moonstones
+- 200gp silver and ivory armlets x2
+- 100gp vial of styrax and sweet rush perfume x8
 10/25
 - 3000sp
 - 500gp Aquamarine
