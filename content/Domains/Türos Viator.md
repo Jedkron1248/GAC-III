@@ -52,6 +52,7 @@ Detailed Land Value
 | Hilltop Buildings (30'x30'x20')    | 2      | 5   | 135    | 1 (2)      | 3400        | 104             | 4           |
 | Cave System                        | 1      | 4   | 18,970 | 18.5       | 28,450      | 28,450          | 18,970      |
 | **TOTALS**                         |        |     |        | **61**     | **372,350** | **57,084**      |             |
+
 Main Keep prices in 2 concrete buildings (roof), 2 40' diameter x 30' high towers, and 3.5 battlements (roof perimeter and courtyard murder holes)
 ### Vassals
 
