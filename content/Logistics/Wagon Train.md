@@ -20,9 +20,9 @@
 
 ### Supply Requirements
 
-| Type        | Food (st./day) | Water (st./day) |
-| ----------- | -------------- | --------------- |
-| Animals     |                |                 |
-| Characters  |                |                 |
-| Mercenaries |                |                 |
-| **TOTAL**   |                |                 |
+| Type        | Number | Food (st./day) | Water (st./day) |
+| ----------- | ------ | -------------- | --------------- |
+| Animals     |        |                |                 |
+| Characters  |        |                |                 |
+| Mercenaries |        |                |                 |
+| **TOTAL**   |        |                |                 |
