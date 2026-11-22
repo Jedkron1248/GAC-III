@@ -3,6 +3,6 @@
 **Origin:** Incest Tomb
 **ID?:** Usage
 **Held:** Villa
-**Value:** Apparent, 2500 GP
+**Value:** Apparent, 2500 GP Sold for 68k to Liber Faunus, 10k ahead of time
 
 #miscitem #training-battle #argollean #Sewer

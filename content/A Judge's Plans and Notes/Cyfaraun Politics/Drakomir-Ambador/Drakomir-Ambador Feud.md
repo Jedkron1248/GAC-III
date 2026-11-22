@@ -1,0 +1,6 @@
+---
+draft: "true"
+---
+The pair of Zeodare and Tavis have been carrying on for a while in secret, to the chagrin of both families. Frustration reached a peak when the pair was rumored to have snuck away on 10/32, leaving the city. Drakomir assumed it was a seduction attempt by Ambador, and Ambador insists that it was a Drakomir plot to dishonor and embarrass them. 
+
+Tavis' return, and his state upon returning, was a shock to Arjenus. He was quick to take his son back under his family's care and keep him sedate; the boy was driven to near madness trying to find out the fate of  Zeodare. The girl's continued absence is a benefit to Arjenus. If she were missing long enough, or proof of her demise was secured, then Tavis would have no choice but to return to being his father's tool; magic and potions would ensure that. It also weakened Valens Ambador's standing, Drakomir propaganda would sway public opinion. The Ambador daughter sought to break Temple strictures and seduce Tavis, dragging the Drakomir name through the mud by association. 
